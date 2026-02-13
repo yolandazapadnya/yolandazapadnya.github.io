@@ -3,7 +3,7 @@ layout: default
 title: Yolanda Xavier
 ---
 
-<img src="/yolanda_xavier_nova_imagem.png" alt="Yolanda Xavier" width="400">
+<img src="/yolanda_xavier_nova_imagem.png" alt="Yolanda Xavier" width="350">
 
 # Yolanda Xavier
 
