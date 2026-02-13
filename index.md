@@ -16,14 +16,12 @@ I can do advanced experiments in Gorilla Experiment Builder.
 ## Past life
 I am a former triple and long jumper:
 
-<a href="http://www.european-athletics.com/home/historical-data/athletes/14566842"> Profile on European Athletics </a>
+[Profile on European Athletics](http://www.european-athletics.com/home/historical-data/athletes/14566842)
 
-<a href="http://www.worldathletics.org/athletes/ukraine/yolanda-xavier-14566842"> Profile on World Athletics </a>
+[Profile on World Athletics](http://www.www.worldathletics.org/athletes/ukraine/yolanda-xavier-1456684)
 
 Used to be a runway model for a Fashion Studio Agency in Lisbon, Portugal. 
 
-Also writing my blog on <a href="http://www.medium.com/@yolandax"> Medium </a>.
-
-![My photo](/assets/profile.jpg)
+Also writing my blog on [Medium](http://www.medium.com/@yolandax).
 
 [Check out my GitHub](https://github.com/yolandazapadnya)
