@@ -42,6 +42,8 @@ Also writing my blog on [Medium](http://www.medium.com/@yolandax).
   <a href="https://github.com/yolandazapadnya" style="text-decoration: none;">💻 GitHub</a>
 </div>
 
+<br>
+
 ## Get in touch
 
 <form action="https://formspree.io/f/xnjbpraz" method="POST" style="max-width: 600px; margin: 30px auto; padding: 30px; background: rgba(255,255,255,0.05); border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
