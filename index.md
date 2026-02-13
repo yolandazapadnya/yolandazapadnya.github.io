@@ -33,3 +33,13 @@ Used to be a runway model for a Fashion Studio Agency in Lisbon, Portugal.
 Also writing my blog on [Medium](http://www.medium.com/@yolandax).
 
 [Check out my GitHub](https://github.com/yolandazapadnya)
+
+## Find me online
+
+<div style="display: flex; gap: 15px; margin-top: 20px;">
+  <a href="www.linkedin.com/in/yolanda-zapadnya-xavier-240a64b4" style="text-decoration: none;">🔗 LinkedIn</a>
+  <a href="https://osf.io/wu3k8/" style="text-decoration: none;">📚 OSF</a>
+  <a href="https://novaresearch.unl.pt/en/persons/yolanda-xavier/" style="text-decoration: none;">📚 NOVA Research Portal</a>
+  <a href="https://www.researchgate.net/profile/Yolanda-Xavier?ev=hdr_xprf" style="text-decoration: none;">📖 Research Gate</a>
+  <a href="https://github.com/yolandazapadnya" style="text-decoration: none;">💻 GitHub</a>
+</div>
