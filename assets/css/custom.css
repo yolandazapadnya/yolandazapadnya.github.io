@@ -1,6 +1,19 @@
+/* Make your name bigger and bold */
 .my-name {
-  font-size: 24px;
+  font-size: 28px;
   font-weight: bold;
-  color: #4CAF50;
-  font-family: 'Georgia', serif;
+  color: #00d4ff;
+}
+
+/* Style for section headings */
+h2 {
+  color: #7cfc00;
+  border-bottom: 2px solid #7cfc00;
+  padding-bottom: 5px;
+}
+
+/* Style images */
+img {
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.3);
 }
