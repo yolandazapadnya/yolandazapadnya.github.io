@@ -9,7 +9,7 @@ title: Yolanda Xavier
 
 PhD Candidate in Psycholinguistics
 
-[View My updated CV](https://www.cienciavitae.pt/portal/2219-BAA6-5B48)
+<a href="https://www.cienciavitae.pt/portal/2219-BAA6-5B48" class="cv-button">📄 View My CV</a>
 
 # About me
 My name is <span class="my-name">Yolanda Xavier</span>. Currently — in 2026 — I am a last-year PhD candidate in Psycholinguistics at the Research Center for Linguistics at NOVA University Lisbon, Portugal. My research borders the Psycholinguistic and Sociolinguistic aspects, since I am investigating the perception of native European Portuguese speakers towards different non-native speakers productions in relation to specific acoustic cues, namely nasal and oral vowels. As such, I examine if the non-native production of nasal and oral vowels in European Portuguese can lead to lower employability ratings for the non-native speakers, specifically for the access to the higher-level positions. I am mainly working with Ukrainian with additional languages — French and Chinese — serving as complementary fillers. Besides this, my research is multifaceted, since it englobes acoustic analysis of formants, vowel duration, syllable duration, and intensity, as well as structured experimental design to elicit implicit language attitudes. 
