@@ -41,3 +41,28 @@ Also writing my blog on [Medium](http://www.medium.com/@yolandax).
   <a href="https://www.researchgate.net/profile/Yolanda-Xavier?ev=hdr_xprf" style="text-decoration: none;">📖 Research Gate</a>
   <a href="https://github.com/yolandazapadnya" style="text-decoration: none;">💻 GitHub</a>
 </div>
+
+## Get in touch
+
+<form action="https://formspree.io/f/xnjbpraz" method="POST" style="max-width: 600px; margin: 30px auto; padding: 30px; background: rgba(255,255,255,0.05); border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+  
+  <div style="margin-bottom: 20px;">
+    <label for="email" style="display: block; margin-bottom: 8px; color: #7cfc00; font-weight: bold;">Your Email</label>
+    <input type="email" name="email" id="email" required style="width: 100%; padding: 12px; border: 2px solid #7cfc00; border-radius: 8px; background: rgba(0,0,0,0.3); color: white; font-size: 14px;">
+  </div>
+  
+  <div style="margin-bottom: 20px;">
+    <label for="subject" style="display: block; margin-bottom: 8px; color: #7cfc00; font-weight: bold;">Subject</label>
+    <input type="text" name="subject" id="subject" required style="width: 100%; padding: 12px; border: 2px solid #7cfc00; border-radius: 8px; background: rgba(0,0,0,0.3); color: white; font-size: 14px;">
+  </div>
+  
+  <div style="margin-bottom: 25px;">
+    <label for="message" style="display: block; margin-bottom: 8px; color: #7cfc00; font-weight: bold;">Your Message</label>
+    <textarea name="message" id="message" rows="6" required style="width: 100%; padding: 12px; border: 2px solid #7cfc00; border-radius: 8px; background: rgba(0,0,0,0.3); color: white; font-size: 14px; resize: vertical;"></textarea>
+  </div>
+  
+  <button type="submit" style="width: 100%; padding: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; border: none; border-radius: 25px; font-weight: bold; font-size: 16px; cursor: pointer; box-shadow: 0 4px 15px rgba(0,0,0,0.3); transition: all 0.3s ease;">
+    Send Message ✉️
+  </button>
+  
+</form>
