@@ -32,8 +32,6 @@ Used to be a runway model for a Fashion Studio Agency in Lisbon, Portugal.
 
 Also writing my blog on [Medium](http://www.medium.com/@yolandax).
 
-[Check out my GitHub](https://github.com/yolandazapadnya)
-
 ## Find me online
 
 <div style="display: flex; gap: 15px; margin-top: 20px;">
