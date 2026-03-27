@@ -30,6 +30,8 @@ I am a former triple and long jumper:
 
 Used to be a runway model for a Fashion Studio Agency in Lisbon, Portugal. 
 
+Currently enrolled with Bendita Talent Agency in Lisbon.
+
 Also writing my blog on [Medium](http://www.medium.com/@yolandax).
 
 ## Find me online
